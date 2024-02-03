@@ -7,7 +7,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game in Python. The g
 To play the game, simply run the provided script in a Python environment. The game will prompt you to choose your marker (X or O) and take turns placing your marker on the board.
 
 ```python
-python tic_tac_toe.py
+python TicTac.py
 ```
 
 ## Code Overview
